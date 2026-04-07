@@ -1,0 +1,82 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/LoveCreate/LoveCreate",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/EmotionGuide/EmotionGuide",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/My/My",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/details/details",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/test/test",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"list": [
+			{
+				"pagePath": "pages/index/index",
+				"text": "首页",
+				"iconPath": "/static/index1.png",
+				"selectedIconPath": "/static/index1.png"
+			},
+			{
+				"pagePath": "pages/LoveCreate/LoveCreate",
+				"text": "情书生成",
+				"iconPath": "/static/love.png",
+				"selectedIconPath": "/static/love.png"
+			},
+			{
+				"pagePath": "pages/EmotionGuide/EmotionGuide",
+				"text": "情感指南",
+				"iconPath": "/static/emotion.png",
+				"selectedIconPath": "/static/emotion.png"
+			},
+			{
+				"pagePath": "pages/My/My",
+				"text": "我的",
+				"iconPath": "/static/user.png",
+				"selectedIconPath": "/static/user.png"
+			}
+		],
+		"selectedColor": "#d726dd",
+		"color": "#999",
+		"borderStyle": "black",
+		"backgroundColor": "#fcd4f9",
+		"fontSize": "14px"
+		
+	},
+	"uniIdRouter": {}
+}

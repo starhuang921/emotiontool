@@ -1,0 +1,16 @@
+# 后端
+serverend/target/
+serverend/.idea/
+serverend/*.iml
+*.log
+
+# 前端
+frontend/node_modules/
+frontend/.hbuilderx/
+frontend/dist/
+frontend/.log
+
+# 系统
+.DS_Store
+.idea/
+*.iml

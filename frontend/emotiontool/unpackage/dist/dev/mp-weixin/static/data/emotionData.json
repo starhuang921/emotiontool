@@ -1,0 +1,107 @@
+[
+	{
+		"id": 1,
+		"title": "愤怒",
+		"introduce": "愤怒是最常见的负面情绪之一，通常源于被冒犯、不被理解或需求未被满足。",
+		"suggest": "1. 深呼吸10次，让身体先冷静下来；2. 离开当下环境，避免冲动行为；3. 写下让你愤怒的原因，理清思路。",
+		"image": "https://tu.ltyuanfang.cn/api/fengjing.php"
+	},
+	{
+		"id": 2,
+		"title": "伤心",
+		"introduce": "伤心源于失去、失望或被伤害，是内心脆弱的正常表现。",
+		"suggest": "1. 允许自己哭泣，情绪需要释放；2. 向信任的人倾诉；3. 做一些温暖治愈的小事安抚自己。",
+		"image": "https://tu.ltyuanfang.cn/api/fengjing.php"
+	},
+	{
+		"id": 3,
+		"title": "焦虑",
+		"introduce": "焦虑是对未来的过度担忧，让人无法专注当下，产生不安与紧张。",
+		"suggest": "1. 专注呼吸，把注意力拉回当下；2. 把担心的事写下来，区分可控与不可控；3. 适度运动释放压力。",
+		"image": "https://tu.ltyuanfang.cn/api/fengjing.php"
+	},
+	{
+		"id": 4,
+		"title": "压力",
+		"introduce": "长期压力会消耗心理能量，导致疲惫、易怒、失眠。",
+		"suggest": "1. 合理规划任务，拆解目标；2. 保证充足休息；3. 每天留10分钟做喜欢的事放松。",
+		"image": "https://tu.ltyuanfang.cn/api/fengjing.php"
+	},
+	{
+		"id": 5,
+		"title": "孤独",
+		"introduce": "孤独是内心缺乏连接感，即使身处人群也可能感到孤单。",
+		"suggest": "1. 主动与朋友家人沟通；2. 培养兴趣爱好，充实生活；3. 接纳孤独，与自己好好相处。",
+		"image": "https://tu.ltyuanfang.cn/api/fengjing.php"
+	},
+	{
+		"id": 6,
+		"title": "自卑",
+		"introduce": "自卑源于过度自我否定，忽视自身优点，放大缺点。",
+		"suggest": "1. 每天记录3个自己的优点；2. 停止与他人盲目比较；3. 从小目标开始积累成就感。",
+		"image": "https://tu.ltyuanfang.cn/api/fengjing.php"
+	},
+	{
+		"id": 7,
+		"title": "迷茫",
+		"introduce": "迷茫是对方向不确定，不知道未来该怎么走，产生无助感。",
+		"suggest": "1. 先做好眼前小事，不用想太远；2. 写下自己真正在意的事情；3. 多尝试，慢慢找到热爱。",
+		"image": "https://tu.ltyuanfang.cn/api/fengjing.php"
+	},
+	{
+		"id": 8,
+		"title": "烦躁",
+		"introduce": "烦躁是情绪累积后的不耐烦，容易因小事影响心情。",
+		"suggest": "1. 暂停手上的事，放空几分钟；2. 听舒缓音乐平复心情；3. 减少多任务处理，专注一件事。",
+		"image": "https://tu.ltyuanfang.cn/api/fengjing.php"
+	},
+	{
+		"id": 9,
+		"title": "恐惧",
+		"introduce": "恐惧是对未知、危险或失败的本能害怕，让人不敢前进。",
+		"suggest": "1. 面对让你害怕的事，从小步开始；2. 告诉自己：我可以慢慢尝试；3. 寻求陪伴与支持。",
+		"image": "https://tu.ltyuanfang.cn/api/fengjing.php"
+	},
+	{
+		"id": 10,
+		"title": "内耗",
+		"introduce": "内耗是心里反复纠结、自我拉扯，让自己特别疲惫。",
+		"suggest": "1. 停止想太多，行动是最好的解药；2. 接纳不完美；3. 把精力放在真正重要的事。",
+		"image": "https://tu.ltyuanfang.cn/api/fengjing.php"
+	},
+	{
+		"id": 11,
+		"title": "愧疚",
+		"introduce": "愧疚是因觉得自己做错事、辜负他人而产生的自责情绪。",
+		"suggest": "1. 真诚道歉弥补过错；2. 原谅不完美的自己；3. 吸取教训，不再重复犯错。",
+		"image": "https://tu.ltyuanfang.cn/api/fengjing.php"
+	},
+	{
+		"id": 12,
+		"title": "疲惫",
+		"introduce": "身心疲惫多由长期劳累、情绪透支导致，提不起精神也不想做事。",
+		"suggest": "1. 立刻放下任务，适当休息；2. 减少无意义消耗；3. 补充睡眠，给身心充电。",
+		"image": "https://tu.ltyuanfang.cn/api/fengjing.php"
+	},
+	{
+		"id": 13,
+		"title": "嫉妒",
+		"introduce": "嫉妒是因他人拥有自己渴望的东西而产生的不平衡心理。",
+		"suggest": "1. 正视自己的情绪，不必自责；2. 把羡慕转化为动力；3. 专注自身成长，减少比较。",
+		"image": "https://tu.ltyuanfang.cn/api/fengjing.php"
+	},
+	{
+		"id": 14,
+		"title": "敏感",
+		"introduce": "内心敏感容易过度解读他人言行，容易受伤、胡思乱想。",
+		"suggest": "1. 提醒自己：别人的话不一定针对你；2. 减少过度揣测；3. 多肯定自己，稳定内心。",
+		"image": "https://tu.ltyuanfang.cn/api/fengjing.php"
+	},
+	{
+		"id": 15,
+		"title": "失望",
+		"introduce": "失望源于期待落空，对人或事感到失落与不甘心。",
+		"suggest": "1. 接受现实，允许事情不按预期发展；2. 调整期待，降低心理落差；3. 把重心放回自己身上。",
+		"image": "https://tu.ltyuanfang.cn/api/fengjing.php"
+	}
+]

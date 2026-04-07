@@ -1,0 +1,1 @@
+<scroll-view scroll-y class="container"><view class="detail-box"><view class="detail-title">{{a}}</view><view class="detail-section"><view class="label">情绪介绍</view><view class="content">{{b}}</view></view><view class="detail-section"><view class="label">调节建议</view><view class="content suggest">{{c}}</view></view></view></scroll-view>
