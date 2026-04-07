@@ -19,9 +19,9 @@
 
 ## 项目结构
 
-emotiontool/
-├── frontend/ # uni-app 前端项目
-└── serverend/ # Java 后端服务
+- emotiontool/
+- ├── frontend/ # uni-app 前端项目
+- └── serverend/ # Java 后端服务
 
 ## 运行方式
 
